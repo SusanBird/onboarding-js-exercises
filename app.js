@@ -9,7 +9,6 @@
 function convertToSeconds(minutes) {
     return minutes * 60;
 }
-
 console.log(`convertToSeconds(10) === 600 : ${convertToSeconds(10) === 600}`);
 
 // 2. areaOfTriangle
